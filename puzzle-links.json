@@ -1,0 +1,11 @@
+{
+  "category1": [
+    "https://example.com/link1",
+    "https://example.com/link2",
+    "https://example.com/link3"
+  ],
+  "category2": [
+    "https://example.com/linkA",
+    "https://example.com/linkB"
+  ]
+}
